@@ -21,7 +21,7 @@ setup(
             'static/lib/shred/*.*',
         ]
     },
-    description='Extract swagger specs from your flast-restful project',
+    description='Extract swagger specs from your flask-restful project',
     author='Ran Tavory',
     license='MIT',
     long_description=long_description,
